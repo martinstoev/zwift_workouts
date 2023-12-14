@@ -1,0 +1,9 @@
+<workout_file>
+  <author>M. Stoev</author>
+  <name>Recovery Miles</name>
+  <description></description>
+  <sportType>bike</sportType>
+  <workout>
+    <SteadyState Duration="3600" Power="0.500" pace="0"/>
+  </workout>
+</workout_file>

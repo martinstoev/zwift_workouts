@@ -1,0 +1,19 @@
+<workout_file>
+    <author>M. Stoev</author>
+    <name>Steady State Intervals 4x10min</name>
+    <description>1:07:00 - 85 TSS</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="600" Power="0.5" pace="1428186484"/>
+        <SteadyState Duration="600" Power="0.98199999" pace="1428186484"/>
+        <SteadyState Duration="300" Power="0.5" pace="1428186484"/>
+        <SteadyState Duration="600" Power="0.98199999" pace="1428186484"/>
+        <SteadyState Duration="300" Power="0.50160712" pace="1428186484"/>
+        <SteadyState Duration="600" Power="0.98199999" pace="1428186484"/>
+        <SteadyState Duration="360" Power="0.5016917" pace="1428186484"/>
+        <SteadyState Duration="600" Power="0.98199999" pace="1428186484"/>
+        <SteadyState Duration="180" Power="0.5" pace="1428186484"/>
+        <SteadyState Duration="300" Power="0.5" pace="1428186484"/>
+    </workout>
+</workout_file>

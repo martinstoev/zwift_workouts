@@ -1,0 +1,13 @@
+<workout_file>
+  <author>M. Stoev</author>
+  <name>Tempo 2x30min</name>
+  <description>1:30:00</description>
+  <sportType>bike</sportType>
+  <workout>
+    <SteadyState Duration="600" Power="0.500" pace="0"/>
+    <SteadyState Duration="1800" Power="0.923" pace="0"/>
+    <SteadyState Duration="900" Power="0.500" pace="0"/>
+    <SteadyState Duration="1800" Power="0.923" pace="0"/>
+    <SteadyState Duration="300" Power="0.649" pace="0"/>
+  </workout>
+</workout_file>
